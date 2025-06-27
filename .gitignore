@@ -1,6 +1,6 @@
-.venv
+venv
 src/__pycache__
-dataset
+venv
 src/yolov5lu.pt
 src/yolov5lu.pt
 src/runs/detect/train6/weights/best-pre-trained.pt
