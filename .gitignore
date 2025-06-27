@@ -3,3 +3,6 @@ src/__pycache__
 dataset
 src/yolov5lu.pt
 src/yolov5lu.pt
+src/runs/detect/train6/weights/best-pre-trained.pt
+src/runs/detect/train6/weights/best.pt
+src/runs/detect/train6/weights/last.pt
