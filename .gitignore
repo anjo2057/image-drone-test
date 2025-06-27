@@ -1,6 +1,5 @@
 .venv
 src/__pycache__
-src/runs
 dataset
 src/yolov5lu.pt
 src/yolov5lu.pt
